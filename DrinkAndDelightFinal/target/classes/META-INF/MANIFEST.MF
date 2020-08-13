@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DrinkAndDelightFinal
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Akash
+Implementation-Vendor-Id: com.cg.project
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://spring.io/projects/spring-boot/DrinkAndDel
+ ightFinal
+Created-By: Maven Integration for Eclipse
+
